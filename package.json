@@ -1,8 +1,8 @@
 {
-  "name": "promise-pool",
+  "name": "promise-poolify",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "repository": "https://github.com/4074/promise-pool",
+  "repository": "https://github.com/4074/promise-poolify",
   "author": "4074 <win.ten.in@gmail.com>",
   "license": "MIT",
   "devDependencies": {

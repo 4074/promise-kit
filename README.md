@@ -1,1 +1,1 @@
-# promise-pool
+# promise-poolify
