@@ -6,16 +6,19 @@
   "author": "4074 <win.ten.in@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^26.0.23",
     "@typescript-eslint/eslint-plugin": "^4.21.0",
     "@typescript-eslint/parser": "^4.21.0",
     "eslint": "^7.24.0",
     "eslint-config-alloy": "^3.10.0",
+    "jest": "^27.0.4",
     "prettier": "^2.2.1",
+    "ts-jest": "^27.0.2",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "build": "tsc"
   }
 }

@@ -28,3 +28,4 @@ tests
 .*
 assets/**/*.less
 .vscode
+coverage
