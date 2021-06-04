@@ -1,8 +1,8 @@
 # promise-kit
 
-[![build status][npm-image]][npm-url]
+[![npm version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
-[![codecov][codecov-image]][codecov-url]
+[![coverage][codecov-image]][codecov-url]
 
 ## Features
 
