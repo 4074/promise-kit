@@ -1,8 +1,12 @@
 {
-  "name": "promise-poolify",
-  "version": "1.0.0",
+  "name": "@winten/promise-kit",
+  "version": "0.1.0",
   "main": "dist/index.js",
-  "repository": "https://github.com/4074/promise-poolify",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "repository": "https://github.com/4074/promise-kit",
   "author": "4074 <win.ten.in@gmail.com>",
   "license": "MIT",
   "devDependencies": {
